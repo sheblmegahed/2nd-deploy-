@@ -212,7 +212,7 @@ header .container nav .form{
 /* start landing  */
 .landing{
     min-height:100vh;
-    background-image:url(../images/anrcqk2q5z4a1.png);
+    background-image:url(https://w.wallhaven.cc/full/x6/wallhaven-x681vl.png);
     background-size:cover;
     background-color:var(--main-color); /*we use this as a backup if the image didn't download */
     position:relative;
@@ -405,7 +405,7 @@ header .container nav .form{
     padding:var(--section-padding) 0;
     height:600px;
     position:relative; 
-    background-image:url(../images/dark-space-scifi-tunnel-background-with-abstract-texture-background-3d-illustration.jpg);
+    background-image:url(https://elzerowebschool.github.io/HTML_And_CSS_Template_Two/images/design-features.jpg);
     background-size:cover;
     display:flex;
     align-items:center;
@@ -801,7 +801,7 @@ header .container nav .form{
 .stats{
     padding:var(--section-padding);
     text-align:center;
-    background-image:url(../images/dark-leaves-background_173897-16.jpg);
+    background-image:url(https://elzerowebschool.github.io/HTML_And_CSS_Template_Two/images/stats.png);
     background-size:cover;
     position:relative;
      
@@ -1056,7 +1056,7 @@ header .container nav .form{
 /* start quote */
 .quote{
     padding:var(--section-padding) 0;
-    background-image:url(../images/god-red-blue-goku-dragon-ball-z-aj-1920x1080.jpg);
+    background-image:url(https://elzerowebschool.github.io/HTML_And_CSS_Template_Two/images/quote.jpg);
     background-size:cover;
     position:relative;
     text-align:center;
@@ -1208,7 +1208,7 @@ header .container nav .form{
 /* start subcribe */
 .subscribe{
     position:relative;
-    background-image:url(../images/00_generic_facebook-001.jpg);
+    background-image:url(https://elzerowebschool.github.io/HTML_And_CSS_Template_Two/images/subscribe.jpg);
     background-size:cover;
     padding:var(--section-padding) 0;
     color:white;
@@ -1453,7 +1453,7 @@ header .container nav .form{
 /* start footer */
 .footer{
     padding:calc(var(--section-padding) / 2) 0;
-    background-image:url(../images/00_generic_facebook-001.jpg);
+    background-image:url(https://elzerowebschool.github.io/HTML_And_CSS_Template_Two/images/subscribe.jpg);
     background-size:cover;
     position:relative;
     color:white;
